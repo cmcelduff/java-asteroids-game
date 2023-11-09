@@ -1,4 +1,4 @@
-# Java Asteriods Game
+# Java Asteroids Game
 
 The following is a clone of the classic Atari Asteroids game made for our course COMP30820.
   
